@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+}
+
+h1, article, header {
+    color: black;
+    margin-left: 20px;
+    padding: 5px;
+}
+
